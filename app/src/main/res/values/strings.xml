@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weatherapp</string>
+    <string name="textview">TextView</string>
+    <string name="weather_matters_nwe_ve_got_the_details">Weather Matters, \nWe\'ve Got the Details</string>
+</resources>
